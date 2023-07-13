@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://codepen.io/shreyas-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyas-pawar" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyas_p10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyas_p10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCieFs1a3FCZCuEHmmOmBCGQ" target="blank"><img align="center" src="https://yt3.googleusercontent.com/T_MAoWybNW-DT3CR9cQIuTrjHjxs1ZImV8-fzBsK_mITitTH_W0yWIf5hepdeJj97wJtj5EoN1k=s176-c-k-c0x00ffffff-no-rj" alt="CodeMuch" height=30/></a>
+<a href="https://www.youtube.com/channel/UCieFs1a3FCZCuEHmmOmBCGQ" target="blank"><img align="center" src="https://www.gstatic.com/youtube/img/creator/yt_studio_logo_white.svg" alt="CodeMuch" height=30/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
