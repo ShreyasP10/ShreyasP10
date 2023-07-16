@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 📫 How to reach me **shreyaspawar1011@gmail.com**
+- 📫 How to reach me **<a href="mailto:shreyaspawar1011@gmail.com">Contact Me</a>**
 
 - ⚡ Fun fact -> **I am very curious about Development and Space.**
 
