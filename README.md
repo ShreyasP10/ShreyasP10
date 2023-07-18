@@ -31,6 +31,7 @@
 <p align="left">
   <a href="https://github.com/ShreyasP10" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="40"</a>
     <a href="https://github.com/ShreyasP10" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.33c438031f3bee1fc7055cb069fbb5df?rik=KrlM40BnhYhuyg&riu=http%3a%2f%2fwww.funklang.com%2ffigma_logo.png&ehk=qn92TvRdNfeOJXF%2b2XxgU3JpMC%2b0E0mBSAPEhVErRbA%3d&risl=&pid=ImgRaw&r=0" alt="Figma" height="40"</a>
+        <a href="https://github.com/ShreyasP10" target="_blank" rel="noreferrer"><img src="https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431" alt="Replit" height="40"</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasp10&show_icons=true&locale=en&layout=compact" alt="shreyasp10" /></p>
