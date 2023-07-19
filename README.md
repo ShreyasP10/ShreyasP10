@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasp10" /> </p>
 
-- 🌱 I’m currently learning **App Development**
+- 💻 I’m currently learning **App Development**
 
-- 📫 How to reach me **<a href="mailto:shreyaspawar1011@gmail.com">Contact Me</a>**
+- 📬 How to reach me **<a href="mailto:shreyaspawar1011@gmail.com">Contact Me</a>**
 
-- ⚡ Fun fact -> **I am very curious about Development and Space.**
+- ✨ Fun fact -> **I am very curious about Development and Space.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
