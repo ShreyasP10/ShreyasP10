@@ -4,7 +4,7 @@
 <img src="https://media.istockphoto.com/vectors/young-character-working-on-the-laptop-in-the-office-interior-daily-vector-id944686268?k=6&m=944686268&s=170667a&w=0&h=ACpB9GthCEmFyydkobpDtfH1HwEe84L3SiEplOSv2lk=" alt="Coding"  align="right" alt="Coding" width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasp10" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasp10" /> </p>
 
 - 💻 I’m currently learning **App Development**
 
