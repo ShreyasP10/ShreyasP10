@@ -27,7 +27,7 @@
   </p>
 
 
-<h3 align="left">   My Tools :</h3>
+<h3 align="left">   My Tools : </h3>
 
 <p align="left">
   <a href="https://github.com/ShreyasP10" target="_blank" rel="noreferrer"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code" height="40"</a>
