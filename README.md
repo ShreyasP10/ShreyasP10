@@ -15,7 +15,7 @@
 - ✨ Fun fact ->  **I am very curious about Development and Space.**
 
 
-<h3 align="left"> Connect with Me:</h3>
+<h3 align="left"> Connect with Me: </h3>
 
 <p align="left">
 <a href="https://codepen.io/shreyas-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyas-pawar" height="40" width="40" /></a>
