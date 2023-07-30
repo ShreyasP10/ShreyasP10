@@ -27,7 +27,6 @@
         <a href="https://github.com/ShreyasP10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40" width="40"/></a>
   </p>
 
-
 <h3 align="left">   My Tools : </h3>
 
 <p align="left">
