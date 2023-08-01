@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://codepen.io/shreyas-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyas-pawar" height="40" width="40" /></a>
 <a href="https://instagram.com/shreyas_p10" target="blank" ><img align="center" src="https://pngmind.com/wp-content/uploads/2019/08/Instagram-Logo-No-Background-1.png" alt="shreyas_p10" height="40"  width="40" /></a>
-<a href="https://www.youtube.com/channel/UCieFs1a3FCZCuEHmmOmBCGQ" target="blank"><img align="center" src="https://pngimg.com/uploads/youtube/youtube_PNG102354.png" alt="CodeMuch" height=40 /></a>
 </p>
 
 <h3 align="left">Languages : </h3>
