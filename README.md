@@ -11,7 +11,7 @@
 
 - 📬 How to reach me  **<a href="mailto:shreyaspawar1011@gmail.com">Contact Me</a>**
 
-- ✨ Fun fact ->  **I am very curious about Development and Space.**
+- ✨ Fun fact ->  **I am very Curious about Development and Space.**
 
 <h3 align="left"> Connect with Me: </h3>
 
