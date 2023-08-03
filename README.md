@@ -9,7 +9,7 @@
 
 - 💻 I’m currently learning  **Backend Development**
 
-- 📬 How to reach me  **<a href="mailto:shreyaspawar1011@gmail.com">Contact Me</a>**
+- 📬 How to reach me  **<a href="mailto:shreyaspawar1011@gmail.com">shreyaspawar1011@gmail.com</a>**
 
 - ✨ Fun fact ->  **I am very Curious about Development and Space.**
 
