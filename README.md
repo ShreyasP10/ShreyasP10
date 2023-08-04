@@ -9,13 +9,17 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=0e75b6&style=flat"  alt="shreyasp10_Profile Views" /> </p>
 
+
 - 💻 I’m currently learning  **Backend Development**
 
 - 📬 How to reach me  **<a href="mailto:shreyaspawar1011@gmail.com">shreyaspawar1011@gmail.com</a>**
 
 - ✨ Fun fact ->  **I am very Curious about Development and Space.**
 
+
+
 <h3 align="left"> Connect with Me: </h3>
+
 
 <p align="left">
 <a href="https://codepen.io/shreyas-pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shreyas-pawar" height="40" width="40" /></a>
