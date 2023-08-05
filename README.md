@@ -10,7 +10,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=0e75b6&style=flat"  alt="shreyasp10_Profile Views" /> </p>
 
-
+<br>
 - 💻 I’m currently learning  **Backend Development**
 
 - 📬 How to reach me  **<a href="mailto:shreyaspawar1011@gmail.com">shreyaspawar1011@gmail.com</a>**
