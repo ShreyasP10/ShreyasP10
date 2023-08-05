@@ -2,7 +2,7 @@
 
 
 <h3 align="center" > A Passionate Developer from India </h3>
-
+<br>
  
 <img src="https://media.istockphoto.com/vectors/young-character-working-on-the-laptop-in-the-office-interior-daily-vector-id944686268?k=6&m=944686268&s=170667a&w=0&h=ACpB9GthCEmFyydkobpDtfH1HwEe84L3SiEplOSv2lk=" alt="Coding"  align="right" alt="Coding" width="400" >
 
