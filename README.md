@@ -1,7 +1,7 @@
 <h1 align="center" > Hello 👋, I'm Shreyas Pawar </h1>
 
 
-<h3 align="center" > A Passionate Developer from India </h3>
+<h3 align="center" > A Passionate Learner from India </h3>
 
 <br>
  
