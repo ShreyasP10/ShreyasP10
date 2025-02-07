@@ -5,7 +5,6 @@
 <!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=shreyasp10&label=Profile%20views&color=ffa200&style=flat" alt="shreyasp10" /> </p>-->
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shreyas_p10) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/SHREYAS-PAWAR) 
 
