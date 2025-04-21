@@ -1,5 +1,5 @@
 ## 💫 About Me:
-  🔭 I’m currently working on <a href="https://github.com/ShreyasP10/GeoGuide" style="color: blue; text-decoration: none;">**👉GeoGuide Repository**</a>
+  🔭 I’m currently working on **👉 CropIQ Appliication**
 <br>🌱 I’m currently learning **Android**<br>💬 Ask me about **Java, JavaScript, Dart** <br>⚡ Fun fact I love **Science**
 
 
