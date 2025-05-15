@@ -1,5 +1,4 @@
 ## 💫 About Me:
-  🔭 I’m currently working on **👉 CropIQ Appliication**
 <br>🌱 I’m currently learning **Android**<br>💬 Ask me about **Java, JavaScript, Dart** <br>⚡ Fun fact I love **Science**
 
 
