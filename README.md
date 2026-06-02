@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌱 I’m currently learning **Android Development**  
-💬 Ask me about **Java, JavaScript, Dart**  
-⚡ Fun fact: I love **Science**  
+🌱 Currently working on Android Projects
+💬 Learning Data Pipelines & Engineering
+⚡ Fun fact: I love exploring new technologies 🚀
 
 ## ![](https://komarev.com/ghpvc/?username=ShreyasP10&color=blue)
 
