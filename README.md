@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 Currently working on Android Projects
-💬 Learning Data Pipelines & Engineering
+🌱 Currently working on Android Projects  
+💬 Learning Data Pipelines & Engineering  
 ⚡ Fun fact: I love exploring new technologies 🚀
 
 ## ![](https://komarev.com/ghpvc/?username=ShreyasP10&color=blue)
