@@ -55,8 +55,6 @@
 ### 🌱 CropIQ
 AI-powered crop disease detection with Android + Firebase + ML
 
-### 🧅 OnionGuard
-Onion disease detection system using AI for farmers
 
 ---
 
