@@ -3,11 +3,11 @@
 ### 👨‍💻 About Me  
 
 🎓 Computer Engineering Student  
-📱 Android Developer | 🤖 AI & Data Science Enthusiast  
+📱 Android Developer | AI & Data Science Enthusiast  
 🚀 Building AI-powered apps & exploring emerging tech  
 🌱 Currently diving into **Data Engineering & Pipelines**
 
-<img src="https://komarev.com/ghpvc/?username=ShreyasP10&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=ShreyasP10&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 
 
 ## 🌐 Connect With Me  
