@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shreyas Pawar
+
+# ![GitHub Stats](http://itshivam.in/api/github-profile?username=ShreyasP10&data=followers,repositories,stars,commits&theme=blue) 
 
 ### 👨‍💻 About Me  
 
